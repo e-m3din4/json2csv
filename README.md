@@ -2,9 +2,9 @@
 
 Author: Edgar Medina
 
-## A Python script to convert a JSON file to CSV or a CSV file to JSON.
+### A Python script to convert a JSON file to CSV or a CSV file to JSON.
 
-#Requirements
+## Requirements
 
 	sudo apt install python3 python3-pip
 
